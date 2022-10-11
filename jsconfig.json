@@ -4,7 +4,8 @@
     "paths": {
       "@/controllers/*": ["controllers/*"],
       "@/constants/*": ["constants/*"],
-      "@/styles/*": ["styles/*"]
+      "@/styles/*": ["styles/*"],
+      "@/config/*": ["config/*"]
     }
   }
 }
